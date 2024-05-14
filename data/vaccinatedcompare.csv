@@ -1,0 +1,23 @@
+Country Name,Year,Vaccine,Vaccinated
+India,2020,Covishield,100000
+India,2020,Covaxin,50000
+India,2020,Sputnik V,40000
+India,2020,ZyCoV-D,0
+India,2020,Pfizer,0
+India,2020,Moderna,50000
+India,2021,Covishield,150000
+India,2021,Covaxin,75000
+India,2021,Sputnik V,20000
+India,2021,ZyCoV-D,15000
+India,2021,Pfizer,100000
+India,2021,Moderna,50000
+India,2022,Covishield,200000
+India,2022,Covaxin,100000
+India,2022,Sputnik V,20000
+India,2022,ZyCoV-D,25000
+India,2022,Pfizer,200000
+India,2022,Moderna,50000
+India,2023,Covaxin,125000
+India,2023,ZyCoV-D,20000
+India,2024,Covishield,250000
+India,2024,Bharat-Biotech,150000

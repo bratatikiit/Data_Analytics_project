@@ -1,0 +1,307 @@
+country,year,affected,continent,percent_affected,month
+India,2020,3214,Asia,0.034,1
+India,2020,4856,Asia,0.051,2
+India,2020,7123,Asia,0.075,3
+India,2020,12589,Asia,0.027,4
+India,2020,15482,Asia,0.058,5
+India,2020,18791,Asia,0.093,6
+India,2020,19547,Asia,0.132,7
+India,2020,29873,Asia,0.104,8
+India,2020,62218,Asia,0.066,9
+India,2020,65871,Asia,0.041,10
+India,2020,122984,Asia,0.031,11
+India,2020,51327,Asia,0.054,12
+India,2021,84421,Asia,0.089,1
+India,2021,81873,Asia,0.136,2
+India,2021,719542,Asia,0.207,3
+India,2021,48230,Asia,0.157,4
+India,2021,42278,Asia,0.119,5
+India,2021,38452,Asia,0.089,6
+India,2021,32821,Asia,0.061,7
+India,2021,31287,Asia,0.045,8
+India,2021,31342,Asia,0.033,9
+India,2021,17854,Asia,0.083,10
+India,2021,15218,Asia,0.055,11
+India,2021,19871,Asia,0.104,12
+India,2022,19231,Asia,0.045,1
+India,2022,12874,Asia,0.030,2
+India,2022,11985,Asia,0.021,3
+India,2022,9421,Asia,0.036,4
+India,2022,5142,Asia,0.054,5
+India,2022,5852,Asia,0.083,6
+India,2022,4234,Asia,0.118,7  
+India,2023,3741,Asia,0.092,1
+India,2023,3428,Asia,0.057,2
+India,2023,987,Asia,0.031,3
+India,2023,823,Asia,0.043,4
+India,2023,581,Asia,0.078,5
+India,2023,452,Asia,0.104,6
+India,2023,241,Asia,0.102,7  
+India,2024,58,Asia,0.034,1
+India,2024,42,Asia,0.019,2
+India,2024,7,Asia,0.048,3
+Germany,2020,1287,Europe,0.016,1
+Germany,2020,2514,Europe,0.031,2
+Germany,2020,4231,Europe,0.052,3
+Germany,2020,11872,Europe,0.023,4
+Germany,2020,23412,Europe,0.042,5
+Germany,2020,25147,Europe,0.064,6
+Germany,2020,27421,Europe,0.092,7
+Germany,2020,35812,Europe,0.072,8
+Germany,2020,34127,Europe,0.051,9
+Germany,2020,32458,Europe,0.030,10
+Germany,2020,31784,Europe,0.022,11
+Germany,2020,33142,Europe,0.039,12
+Germany,2021,24852,Europe,0.060,1
+Germany,2021,27231,Europe,0.089,2
+Germany,2021,19874,Europe,0.122,3
+Germany,2021,26542,Europe,0.081,4
+Germany,2021,24821,Europe,0.059,5
+Germany,2021,23125,Europe,0.039,6
+Germany,2021,22418,Europe,0.030,7
+Germany,2021,11857,Europe,0.023,8
+Germany,2021,11223,Europe,0.018,9
+Germany,2021,12147,Europe,0.027,10
+Germany,2021,9852,Europe,0.048,11
+Germany,2021,5217,Europe,0.065,12
+Germany,2022,2541,Europe,0.031,1
+Germany,2022,1472,Europe,0.018,2
+Germany,2022,854,Europe,0.011,3
+Germany,2023,1874,Europe,0.023,1
+Germany,2023,1258,Europe,0.016,2
+Germany,2023,714,Europe,0.009,3
+Germany,2023,1123,Europe,0.014,4
+Germany,2023,1842,Europe,0.023,5
+Germany,2023,2517,Europe,0.031,6
+Germany,2023,3871,Europe,0.048,7
+Germany,2024,1428,Europe,0.018,1
+Germany,2024,857,Europe,0.011,2
+Germany,2024,814,Europe,0.006,3
+China,2020,1872,Asia,0.013,1
+China,2020,2548,Asia,0.018,2
+China,2020,4215,Asia,0.030,3
+China,2020,1987,Asia,0.014,4
+China,2020,3142,Asia,0.022,5
+China,2020,5821,Asia,0.041,6
+China,2020,8456,Asia,0.060,7
+China,2020,6218,Asia,0.044,8
+China,2020,4527,Asia,0.032,9
+China,2020,2814,Asia,0.020,10
+China,2020,1987,Asia,0.014,11
+China,2020,3412,Asia,0.024,12
+China,2021,5142,Asia,0.037,1
+China,2021,7854,Asia,0.056,2
+China,2021,11234,Asia,0.080,3
+China,2021,8412,Asia,0.060,4
+China,2021,5871,Asia,0.042,5
+China,2021,4128,Asia,0.029,6
+China,2021,2845,Asia,0.020,7
+China,2021,1972,Asia,0.014,8
+China,2021,1427,Asia,0.010,9
+China,2021,2584,Asia,0.018,10
+China,2021,4231,Asia,0.030,11
+China,2021,6147,Asia,0.044,12
+China,2022,3215,Asia,0.023,1
+China,2022,1842,Asia,0.013,2
+China,2022,1271,Asia,0.009,3  
+China,2023,2514,Asia,0.018,1
+China,2023,1487,Asia,0.011,2
+China,2023,852,Asia,0.006,3
+China,2023,1284,Asia,0.009,4
+China,2023,2147,Asia,0.015,5
+China,2023,3412,Asia,0.024,6
+China,2023,5178,Asia,0.037,7  
+China,2024,2841,Asia,0.020,1
+China,2024,1572,Asia,0.011,2
+China,2024,984,Asia,0.007,3
+Colombia,2020,4812,South America,0.042,1
+Colombia,2020,7231,South America,0.064,2
+Colombia,2020,11278,South America,0.100,3
+Colombia,2020,8421,South America,0.074,4
+Colombia,2020,6142,South America,0.054,5
+Colombia,2020,9517,South America,0.084,6
+Colombia,2020,14287,South America,0.126,7
+Colombia,2020,10854,South America,0.096,8
+Colombia,2020,7841,South America,0.069,9
+Colombia,2020,5214,South America,0.046,10
+Colombia,2020,3872,South America,0.034,11
+Colombia,2020,6541,South America,0.058,12
+Colombia,2021,9874,South America,0.087,1
+Colombia,2021,14523,South America,0.128,2
+Colombia,2021,21478,South America,0.190,3  
+Colombia,2023,5428,South America,0.048,1
+Colombia,2023,3215,South America,0.028,2
+Colombia,2023,1842,South America,0.016,3
+Colombia,2023,2571,South America,0.023,4
+Colombia,2023,4128,South America,0.037,5
+Colombia,2023,6217,South America,0.055,6
+Colombia,2023,8741,South America,0.077,7  
+Colombia,2024,4285,South America,0.038,1
+Colombia,2024,2514,South America,0.022,2
+Colombia,2024,1427,South America,0.013,3
+Algeria,2020,2147,Africa,0.024,1
+Algeria,2020,3258,Africa,0.037,2
+Algeria,2020,5142,Africa,0.058,3
+Algeria,2020,3871,Africa,0.044,4
+Algeria,2020,2845,Africa,0.032,5
+Algeria,2020,4218,Africa,0.048,6
+Algeria,2020,6172,Africa,0.070,7
+Algeria,2020,4521,Africa,0.051,8
+Algeria,2020,3214,Africa,0.036,9
+Algeria,2020,1872,Africa,0.021,10
+Algeria,2020,1423,Africa,0.016,11
+Algeria,2020,2517,Africa,0.028,12
+Algeria,2021,3852,Africa,0.043,1
+Algeria,2021,5814,Africa,0.065,2
+Algeria,2021,8427,Africa,0.094,3
+Algeria,2021,6142,Africa,0.069,4
+Algeria,2021,4578,Africa,0.051,5
+Algeria,2021,3215,Africa,0.036,6
+Algeria,2021,2178,Africa,0.024,7
+Algeria,2021,1542,Africa,0.017,8
+Algeria,2021,1123,Africa,0.013,9
+Algeria,2021,1874,Africa,0.021,10
+Algeria,2021,2841,Africa,0.032,11
+Algeria,2021,4127,Africa,0.046,12
+Algeria,2022,2514,Africa,0.028,1
+Algeria,2022,1427,Africa,0.016,2  
+Algeria,2023,1214,Africa,0.014,1
+Algeria,2023,841,Africa,0.009,2
+Algeria,2023,512,Africa,0.006,3
+Algeria,2023,728,Africa,0.008,4
+Algeria,2023,1145,Africa,0.013,5
+Algeria,2023,1712,Africa,0.019,6
+Algeria,2023,2547,Africa,0.029,7  
+Algeria,2024,1871,Africa,0.021,1
+Algeria,2024,1254,Africa,0.014,2
+Algeria,2024,784,Africa,0.009,3
+Afghanistan,2020,841,Asia,0.012,1 
+Afghanistan,2020,1258,Asia,0.018,2
+Afghanistan,2020,1874,Asia,0.027,3  
+Afghanistan,2021,2517,Asia,0.036,4  
+Afghanistan,2021,3214,Asia,0.046,5
+Afghanistan,2021,4127,Asia,0.059,6
+Afghanistan,2021,5218,Asia,0.075,7
+Afghanistan,2021,3871,Asia,0.056,8
+Afghanistan,2021,2842,Asia,0.041,9
+Afghanistan,2021,1971,Asia,0.028,10
+Afghanistan,2021,1428,Asia,0.021,11
+Afghanistan,2021,2145,Asia,0.031,12
+Afghanistan,2022,3412,Asia,0.049,1
+Afghanistan,2022,2178,Asia,0.031,2
+Afghanistan,2022,1285,Asia,0.018,3
+Afghanistan,2022,1852,Asia,0.027,4
+Afghanistan,2022,2578,Asia,0.037,5
+Afghanistan,2022,3841,Asia,0.055,6
+Afghanistan,2022,5124,Asia,0.074,7  
+Afghanistan,2023,3285,Asia,0.047,1
+Afghanistan,2023,1942,Asia,0.028,2
+Afghanistan,2023,1157,Asia,0.017,3
+Afghanistan,2023,1584,Asia,0.023,4
+Afghanistan,2023,2217,Asia,0.032,5
+Afghanistan,2023,3148,Asia,0.046,6
+Afghanistan,2023,4271,Asia,0.062,7  
+Afghanistan,2024,2514,Asia,0.037,1
+Afghanistan,2024,1487,Asia,0.022,2
+Afghanistan,2024,854,Asia,0.012,3
+Australia,2020,1254,Oceania,0.015,1
+Australia,2020,2147,Oceania,0.026,2
+Australia,2020,3871,Oceania,0.047,3
+Australia,2020,2512,Oceania,0.031,4
+Australia,2020,1842,Oceania,0.022,5
+Australia,2020,2974,Oceania,0.036,6
+Australia,2020,4521,Oceania,0.054,7
+Australia,2020,3287,Oceania,0.040,8
+Australia,2020,2178,Oceania,0.026,9
+Australia,2020,1457,Oceania,0.017,10
+Australia,2020,1024,Oceania,0.012,11
+Australia,2020,1714,Oceania,0.021,12
+Australia,2021,3215,Oceania,0.039,1
+Australia,2021,4857,Oceania,0.059,2
+Australia,2021,7284,Oceania,0.088,3
+Australia,2021,5142,Oceania,0.062,4
+Australia,2021,3878,Oceania,0.047,5  
+Australia,2024,1287,Oceania,0.016,1
+Australia,2024,854,Oceania,0.010,2
+Australia,2024,517,Oceania,0.006,3
+Australia,2024,721,Oceania,0.009,4
+Australia,2024,1042,Oceania,0.013,5
+Australia,2024,1478,Oceania,0.018,6
+Australia,2024,2157,Oceania,0.026,7
+France,2020,8741,Europe,0.132,1
+France,2020,12514,Europe,0.189,2
+France,2020,18427,Europe,0.278,3
+France,2020,14287,Europe,0.215,4
+France,2020,10571,Europe,0.159,5
+France,2020,15842,Europe,0.239,6
+France,2020,21714,Europe,0.328,7
+France,2020,16254,Europe,0.245,8
+France,2020,11872,Europe,0.179,9
+France,2020,8415,Europe,0.127,10
+France,2020,6142,Europe,0.093,11
+France,2020,9271,Europe,0.140,12
+France,2021,14572,Europe,0.219,1
+France,2021,21487,Europe,0.325,2
+France,2021,28154,Europe,0.423,3  
+France,2024,5217,Europe,0.079,1
+France,2024,3842,Europe,0.058,2
+France,2024,2178,Europe,0.033,3
+France,2024,3145,Europe,0.047,4
+France,2024,4521,Europe,0.068,5
+France,2024,6287,Europe,0.095,6
+France,2024,8714,Europe,0.132,7
+Canada,2020,4812,North America,0.014,1
+Canada,2020,7231,North America,0.021,2
+Canada,2020,11457,North America,0.033,3
+Canada,2020,8714,North America,0.025,4
+Canada,2020,6521,North America,0.019,5
+Canada,2020,9842,North America,0.029,6
+Canada,2020,14871,North America,0.043,7
+Canada,2020,11254,North America,0.033,8
+Canada,2020,8142,North America,0.024,9
+Canada,2020,5871,North America,0.017,10
+Canada,2020,4217,North America,0.012,11
+Canada,2020,6842,North America,0.020,12
+Canada,2021,9215,North America,0.027,1
+Canada,2021,13571,North America,0.040,2
+Canada,2021,18742,North America,0.055,3
+Canada,2021,14127,North America,0.041,4  
+Canada,2023,3841,North America,0.011,1
+Canada,2023,2814,North America,0.008,2
+Canada,2023,1972,North America,0.006,3
+Canada,2023,2541,North America,0.007,4
+Canada,2023,3714,North America,0.011,5
+Canada,2023,5287,North America,0.015,6
+Canada,2023,7412,North America,0.022,7  
+Canada,2024,2147,North America,0.006,1
+Canada,2024,1571,North America,0.005,2
+Canada,2024,1214,North America,0.004,3
+Canada,2024,1841,North America,0.005,4
+Canada,2024,2517,North America,0.007,5
+Spain, 2020, 5000, Europe, 0.10, 1
+Spain, 2020, 7500, Europe, 0.15, 2
+Spain, 2020, 10000, Europe, 0.20, 3
+Spain, 2021, 8000, Europe, 0.16, 4
+Spain, 2021, 6000, Europe, 0.12, 5
+Spain, 2021, 4000, Europe, 0.08, 6
+Spain, 2022, 3000, Europe, 0.06, 7
+Spain, 2022, 2000, Europe, 0.04, 8
+Spain, 2022, 1500, Europe, 0.03, 9
+Spain, 2022, 1000, Europe, 0.02, 10
+Spain, 2022, 5000, Europe, 0.01, 11
+Spain, 2022, 2500, Europe, 0.005, 12
+Spain, 2023, 1500, Europe, 0.003, 1
+Spain, 2023, 1000, Europe, 0.002, 2
+Spain, 2023, 5000, Europe, 0.001, 3
+Spain, 2023, 7000, Europe, 0.0014, 4
+Spain, 2023, 1200, Europe, 0.0024, 5
+Spain, 2023, 2000, Europe, 0.004, 6
+Spain, 2024, 180, Europe, 0.0036, 1
+Spain, 2024, 1500, Europe, 0.003, 2
+Spain, 2024, 1200, Europe, 0.0024, 3
+Spain, 2024, 1000, Europe, 0.002, 4
+Spain, 2024, 800, Europe, 0.0016, 5
+Spain, 2024, 500, Europe, 0.001, 6
+
+
+ 
